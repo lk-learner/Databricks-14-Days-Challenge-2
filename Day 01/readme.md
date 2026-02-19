@@ -41,3 +41,6 @@ spark.sql("OPTIMIZE events_delta")
 
 ```
 ---
+### 🔗 Resources:
+
+https://docs.databricks.com/delta/
