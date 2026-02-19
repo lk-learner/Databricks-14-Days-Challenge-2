@@ -8,7 +8,7 @@ Databricks 14-Days AI Challenge is designed to help beginners build a strong fou
 | :--- | :--- | :--- |
 | [Day 01](https://github.com/lk-learner/Databricks-14-Days-Challenge-2/tree/main/Day%2001) | Delta Conversion & Optimization | 🚧 In Progress |
 | [Day 02](https://github.com/lk-learner/Databricks-14-Days-Challenge-2/tree/main/Day%2002) | Feature Table (Silver Layer Thinking) | 🚧 In Progress |
-| [Day 03](https://github.com/lk-learner/Databricks-14-Days-Challenge-2/tree/main/Day%2003)) | Job Orchestration Basics | 🚧 In Progress |
+| [Day 03](https://github.com/lk-learner/Databricks-14-Days-Challenge-2/tree/main/Day%2003) | Job Orchestration Basics | 🚧 In Progress |
 | [Day 04](https://github.com/lk-learner/Databricks-14-Days-Challenge-2/tree/main/Day%2004) | Structured Streaming (Basic Simulation) | 🚧 In Progress |
 | [Day 05](https://github.com/lk-learner/Databricks-14-Days-Challenge-2/tree/main/Day%2005) | Production-Grade Feature Engineering | 🚧 In Progress |
 | [Day 06](https://github.com/lk-learner/Databricks-14-Days-Challenge-2/tree/main/Day%2006) | Model Training & Tuning | 🚧 In Progress |
