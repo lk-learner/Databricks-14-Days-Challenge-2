@@ -62,6 +62,6 @@ This is a personal learning repository for the Databricks-14-Days-Challenge. Fee
 - [Delta Lake](https://delta.io/)
 - [MLflow](https://mlflow.org/)
 - [Kaggle Dataset](https://www.kaggle.com/datasets/mkechinov/ecommerce-behavior-data-from-multi-category-store)
-- [Databricks 14 day challenge notion link](https://indiandataclub.notion.site/Databricks-14-Days-AI-Challenge-2e09b695c411802398eed89908875221)
+- [Databricks 14 day challenge notion link](https://indiandataclub.notion.site/Databricks-14-Days-AI-Challenge-2-3039b695c41180648c7bd86ae28377e9)
 ---
 @databricks @codebasics @indiandataclub #DatabricksWithIDC
