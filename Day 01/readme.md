@@ -27,7 +27,7 @@
 
 ---
 
-### 💻 First Code Snippet (Python)
+### 💻 Practice
 ```python
 # Convert to Delta
 events.write.format("delta").mode("overwrite").save("/delta/events")# Create table
