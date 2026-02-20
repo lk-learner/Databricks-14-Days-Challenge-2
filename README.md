@@ -43,7 +43,7 @@ Databricks 14-Days AI Challenge is designed to help beginners build a strong fou
 
 ## 🛠️ Technologies
 
-- DataBricks Free Edition
+- DataBricks Free Edition ( Delta Lake , Pyspark , MLflow , SQL Analytics )
 
 ## 📖 Learning Goals
 
