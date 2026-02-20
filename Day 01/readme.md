@@ -2,7 +2,7 @@
 
 ## Databricks 14-Day AI Challenge
 ---
-### 🚀 Overview
+### 🚀 Overview:
 
 The goal of Day 1 is to move away from legacy file formats (like CSV) and adopt Delta Lake, the optimized storage layer of a Databricks Lakehouse. You will learn how to transform raw data into a high-performance format, understand common performance pitfalls (like the "Small File Problem"), and use built-in Databricks commands to keep your data organized and fast.
 
@@ -25,7 +25,7 @@ The goal of Day 1 is to move away from legacy file formats (like CSV) and adopt 
 
 ---
 
-### 📚 Key Concepts
+### 📚 Key Concepts:
 
 
 1. Delta vs. Parquet
@@ -73,7 +73,7 @@ When running OPTIMIZE, you can also use ZORDER BY (column_name). This not only m
 
 ---
 
-### 💻 Practice
+### 💻 Practice:
 ```python
 # Convert to Delta
 events.write.format("delta").mode("overwrite").save("/delta/events")# Create table
