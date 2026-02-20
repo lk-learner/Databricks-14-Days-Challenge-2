@@ -6,7 +6,7 @@
 
 ---
 
-### Learn:
+### 📚 Learn:
 
 - Bronze → Silver → Gold
 - Feature engineering in production
