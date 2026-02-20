@@ -1,3 +1,10 @@
+# Day 1: Delta Conversion & Optimization
+
+## Databricks 14-Day AI Challenge
+---
+### 🚀 Overview
+
+---
 
 ### Learn:
 
