@@ -22,6 +22,12 @@
 4. Validate feature quality.
 
 ---
+### 📚 Key Concepts
+
+
+
+
+---
 
 ### 📝 Practice
 
