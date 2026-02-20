@@ -1,4 +1,4 @@
-# Day 1: Delta Conversion & Optimization
+# Day 2: Feature Table (Silver Layer Thinking)
 
 ## Databricks 14-Day AI Challenge
 ---
