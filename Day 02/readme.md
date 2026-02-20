@@ -2,7 +2,7 @@
 
 ## Databricks 14-Day AI Challenge
 ---
-### 🚀 Overview
+### 🚀 Overview:
 
 Day 2 focuses on the transition from the Bronze Layer (raw data) to the Silver Layer (refined data). In an AI/ML context, this is where "Feature Engineering" begins. The objective is to take raw event logs (like clicks and purchases) and transform them into a User-Level Feature Table , a structured dataset where each row represents a unique user with summarized behavioral metrics.
 
@@ -24,7 +24,7 @@ Day 2 focuses on the transition from the Bronze Layer (raw data) to the Silver L
 4. Validate feature quality.
 
 ---
-### 📚 Key Concepts
+### 📚 Key Concepts:
 
 1. The Medallion Architecture (Bronze → Silver)
    
@@ -79,7 +79,7 @@ A machine learning model cannot "read" a list of 1 million raw clicks. It requir
 
 ---
 
-### 📝 Practice
+### 📝 Practice:
 
 ```python
 from pyspark.sqlimport functionsas F
