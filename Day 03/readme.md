@@ -1,4 +1,4 @@
-# Day 1:  Job Orchestration Basics
+# Day 3:  Job Orchestration Basics
 
 ## Databricks 14-Day AI Challenge
 ---
