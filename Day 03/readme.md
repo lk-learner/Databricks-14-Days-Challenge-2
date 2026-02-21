@@ -70,13 +70,13 @@ Code Breakdown (The Practice Task)
 The snippet provided illustrates how to capture external input:
 
 Python
-# 1. Create a text widget named "layer" with a default value of "silver"
+#### 1. Create a text widget named "layer" with a default value of "silver"
 dbutils.widgets.text("layer","silver")
 
-# 2. Fetch the value currently stored in that widget
+#### 2. Fetch the value currently stored in that widget
 layer = dbutils.widgets.get("layer")
 
-# 3. Use that value in your logic
+#### 3. Use that value in your logic
 print("Running layer:", layer)
 Summary of Tasks for the Day:
 Add Widgets: Make your notebook dynamic.
