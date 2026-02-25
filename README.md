@@ -11,7 +11,7 @@ Databricks 14-Days AI Challenge is designed to help beginners build a strong fou
 | [Day 03](https://github.com/lk-learner/Databricks-14-Days-Challenge-2/tree/main/Day%2003) | Job Orchestration Basics | ✅ Completed |
 | [Day 04](https://github.com/lk-learner/Databricks-14-Days-Challenge-2/tree/main/Day%2004) | Structured Streaming (Basic Simulation) | ✅ Completed |
 | [Day 05](https://github.com/lk-learner/Databricks-14-Days-Challenge-2/tree/main/Day%2005) | Production-Grade Feature Engineering | ✅ Completed |
-| [Day 06](https://github.com/lk-learner/Databricks-14-Days-Challenge-2/tree/main/Day%2006) | Model Training & Tuning | 🚧 In Progress |
+| [Day 06](https://github.com/lk-learner/Databricks-14-Days-Challenge-2/tree/main/Day%2006) | Model Training & Tuning | ✅ Completed |
 | [Day 07](https://github.com/lk-learner/Databricks-14-Days-Challenge-2/tree/main/Day%2007) | MLflow Tracking | 🚧 In Progress |
 | [Day 08](https://github.com/lk-learner/Databricks-14-Days-Challenge-2/tree/main/Day%2008) | Batch Inference Pipeline | 🚧 In Progress |
 | [Day 09](https://github.com/lk-learner/Databricks-14-Days-Challenge-2/tree/main/Day%2009) | Recommendation System | 🚧 In Progress |
