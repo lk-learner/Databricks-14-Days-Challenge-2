@@ -1,4 +1,4 @@
-## DAY 7 – MLflow Tracking
+# DAY 7 : MLflow Tracking
 
 ## Databricks 14-Day AI Challenge
 
