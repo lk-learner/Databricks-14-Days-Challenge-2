@@ -7,7 +7,7 @@
 
 Day 7 focuses on the transition from "writing code" to "managing experiments." In a professional environment, data scientists run hundreds of iterations of a model with different settings. Without a tracking system, it is impossible to remember which settings produced the best results.
 
-MLflow Tracking acts as a "digital lab notebook." It automatically records everything about your training process—parameters, performance metrics, and the model files themselves—so you can review, share, and deploy them later.
+MLflow Tracking acts as a "digital lab notebook." It automatically records everything about your training process, parameters, performance metrics, and the model files themselves—so you can review, share, and deploy them later.
 
 ---
 ### 📚 Learn:
