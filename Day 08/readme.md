@@ -59,7 +59,7 @@ ACID Compliance: Ensures that even if the write process fails halfway, the table
 
 **5. Actionable Insights (Top Predicted Buyers)**
 
-The final task—identifying top buyers—is the "Why" behind the "How."
+The final task identifying top buyers is the "Why" behind the "How."
 
 Business Logic: Once predictions (usually probabilities between 0 and 1) are saved, you filter or sort them.
 
