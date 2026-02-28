@@ -5,7 +5,7 @@
 ---
 
 <p align="center">
-<img src="https://github.com/lk-learner/Databricks-14-Days-Challenge-by-Indian-Data-Club/blob/main/Day%2010/10-Days-Badge.png" style="width:50%;max-width:300px;">
+<img src="https://github.com/lk-learner/Databricks-14-Days-Challenge-2/blob/main/Day%2007/30.png" style="width:50%;max-width:300px;">
 
 ---
 ### 🚀 Overview:
