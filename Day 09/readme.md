@@ -54,7 +54,7 @@ By multiplying these smaller tables back together, it "fills in the blanks" to p
 
 **4. The Cold Start Concept**
 
-One of the biggest challenges in AI recommendations is "Cold Start"—what do you do with a brand-new user or a brand-new product with no history?
+One of the biggest challenges in AI recommendations is "Cold Start" , what do you do with a brand-new user or a brand-new product with no history?
 
 The Solution in Practice: In the provided code, coldStartStrategy="drop" is used. This tells Spark to drop any users or items in the test set that weren't present in the training set, preventing the model from crashing or returning "NaN" (Not a Number) errors.
 
