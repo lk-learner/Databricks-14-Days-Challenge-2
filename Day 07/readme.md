@@ -3,6 +3,11 @@
 ## Databricks 14-Day AI Challenge
 
 ---
+
+<p align="center">
+<img src="https://github.com/lk-learner/Databricks-14-Days-Challenge-by-Indian-Data-Club/blob/main/Day%2010/10-Days-Badge.png" style="width:50%;max-width:300px;">
+
+---
 ### 🚀 Overview:
 
 Day 7 focuses on the transition from "writing code" to "managing experiments." In a professional environment, data scientists run hundreds of iterations of a model with different settings. Without a tracking system, it is impossible to remember which settings produced the best results.
