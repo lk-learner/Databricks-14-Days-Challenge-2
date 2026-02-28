@@ -14,7 +14,7 @@ Databricks 14-Days AI Challenge is designed to help beginners build a strong fou
 | [Day 06](https://github.com/lk-learner/Databricks-14-Days-Challenge-2/tree/main/Day%2006) | Model Training & Tuning | ✅ Completed |
 | [Day 07](https://github.com/lk-learner/Databricks-14-Days-Challenge-2/tree/main/Day%2007) | MLflow Tracking | ✅ Completed  |
 | [Day 08](https://github.com/lk-learner/Databricks-14-Days-Challenge-2/tree/main/Day%2008) | Batch Inference Pipeline | ✅ Completed  |
-| [Day 09](https://github.com/lk-learner/Databricks-14-Days-Challenge-2/tree/main/Day%2009) | Recommendation System | 🚧 In Progress |
+| [Day 09](https://github.com/lk-learner/Databricks-14-Days-Challenge-2/tree/main/Day%2009) | Recommendation System | ✅ Completed |
 | [Day 10](https://github.com/lk-learner/Databricks-14-Days-Challenge-2/tree/main/Day%2010) | Query Optimization & Explain Plans | 🚧 In Progress |
 | [Day 11](https://github.com/lk-learner/Databricks-14-Days-Challenge-2/tree/main/Day%2011) | Time Travel & Data Recovery | 🚧 In Progress |
 | [Day 12](https://github.com/lk-learner/Databricks-14-Days-Challenge-2/tree/main/Day%2012) | Cost Optimization Basics | 🚧 In Progress |
