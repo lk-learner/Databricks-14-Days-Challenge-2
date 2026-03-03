@@ -10,12 +10,17 @@
 ---
 ### 📚 Learn:
 
-
+- Cluster sizing
+- Caching vs recompute
+- Data partitioning
 
 ---
 
 ### 🛠️ Tasks:
 
+1. Analyze job runtime.
+2. Reduce unnecessary actions.
+3. Document cost-saving ideas.
 
 ---
 
