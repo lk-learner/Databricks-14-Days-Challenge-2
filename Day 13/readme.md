@@ -28,7 +28,7 @@ Day 13 Tasks Explained:
 
 Architecture Diagram: Create a visual map showing the flow from Source → Bronze → Silver → Gold → MLflow → Serving.
 
-Pipeline Documentation: Document the "How" and "Why"—e.g., "Data is ingested from S3 every 4 hours using Auto Loader."
+Pipeline Documentation: Document the "How" and "Why". For example "Data is ingested from S3 every 4 hours using Auto Loader."
 
 Retraining Strategy: Define the criteria for when a model is no longer accurate and needs to be updated.
 
