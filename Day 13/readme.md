@@ -36,7 +36,7 @@ Retraining Strategy: Define the criteria for when a model is no longer accurate 
 
 ### 📚 Key Concepts:
 
-Medallion Architecture (The Data Foundation)
+**Medallion Architecture (The Data Foundation)**
 
 Bronze Layer: The "Landing" or "Raw" zone where data is stored in its original format. It serves as a historical record.
 
@@ -44,7 +44,7 @@ Silver Layer: The "Cleansed" zone. Data is filtered, cleaned, and augmented. Thi
 
 Gold Layer: The "Curated" or "Business" zone. Data is aggregated and structured specifically for reporting or as features for Machine Learning models.
 
-ML Lifecycle Integration
+**ML Lifecycle Integration**
 
 Integrating MLflow into the data pipeline to track experiments, parameters, and metrics.
 
@@ -52,13 +52,13 @@ Using the Model Registry to manage model versions (Staging vs. Production).
 
 Ensuring the pipeline can serve models either via Batch Inference or Real-time API endpoints.
 
-Data Flow & Pipeline Orchestration
+**Data Flow & Pipeline Orchestration**
 
 Designing how data moves using Databricks Workflows or Delta Live Tables (DLT).
 
 Understanding the "Trigger" mechanisms: Does the pipeline run on a schedule, or is it event-driven?
 
-Retraining Strategy
+**Retraining Strategy**
 
 Scheduled Retraining: Training models at fixed intervals (e.g., weekly).
 
