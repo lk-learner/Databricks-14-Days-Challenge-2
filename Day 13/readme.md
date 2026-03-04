@@ -69,14 +69,9 @@ Trigger-based Retraining: Automating retraining when "Model Drift" or "Data Drif
 ---
 ### 🔗 Resources:
 
-Official Documentation: Databricks Medallion Architecture Guide
+[Official Documentation: Databricks Medallion Architecture Guide](https://www.databricks.com/blog/what-is-medallion-architecture)
 
-Architecture Blog: Building an End-to-End AI Architecture
 
-Community: Indian Data Club YouTube Channel – Check the "14 Days Databricks Challenge" playlist for the specific Day 13 session recording.
-
-Workflow Design: Introduction to Databricks Workflows
-
-Databricks Architecture - How it really works
+[Databricks Architecture - How it really works](https://docs.databricks.com/aws/en/getting-started/architecture)
 
 
