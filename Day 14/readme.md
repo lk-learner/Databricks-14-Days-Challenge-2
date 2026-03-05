@@ -12,13 +12,18 @@
 
 ### 📚 Learn:
 
+- Scalability thinking
+- Monitoring
+- Failure handling
 
 
 ---
 
 ### 🛠️ Tasks:
 
-
+1. Combine data pipeline + ML pipeline.
+2. Save final model.
+3. Present complete system.
 
 ---
 
