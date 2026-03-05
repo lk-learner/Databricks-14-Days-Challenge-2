@@ -16,10 +16,10 @@ Databricks 14-Days AI Challenge is designed to help beginners build a strong fou
 | [Day 08](https://github.com/lk-learner/Databricks-14-Days-Challenge-2/tree/main/Day%2008) | Batch Inference Pipeline | ✅ Completed  |
 | [Day 09](https://github.com/lk-learner/Databricks-14-Days-Challenge-2/tree/main/Day%2009) | Recommendation System | ✅ Completed |
 | [Day 10](https://github.com/lk-learner/Databricks-14-Days-Challenge-2/tree/main/Day%2010) | Query Optimization & Explain Plans | ✅ Completed |
-| [Day 11](https://github.com/lk-learner/Databricks-14-Days-Challenge-2/tree/main/Day%2011) | Time Travel & Data Recovery | 🚧 In Progress |
-| [Day 12](https://github.com/lk-learner/Databricks-14-Days-Challenge-2/tree/main/Day%2012) | Cost Optimization Basics | 🚧 In Progress |
-| [Day 13](https://github.com/lk-learner/Databricks-14-Days-Challenge-2/tree/main/Day%2013) | End-to-End Architecture Design | 🚧 In Progress |
-| [Day 14](https://github.com/lk-learner/Databricks-14-Days-Challenge-2/tree/main/Day%2014) | Final Production-Ready System | 🚧 In Progress |
+| [Day 11](https://github.com/lk-learner/Databricks-14-Days-Challenge-2/tree/main/Day%2011) | Time Travel & Data Recovery | ✅ Completed |
+| [Day 12](https://github.com/lk-learner/Databricks-14-Days-Challenge-2/tree/main/Day%2012) | Cost Optimization Basics | ✅ Completed |
+| [Day 13](https://github.com/lk-learner/Databricks-14-Days-Challenge-2/tree/main/Day%2013) | End-to-End Architecture Design | ✅ Completed |
+| [Day 14](https://github.com/lk-learner/Databricks-14-Days-Challenge-2/tree/main/Day%2014) | Final Production-Ready System | ✅ Completed |
 | [DataBricks_Project](./DataBricks_Project) | DataBricks Project | 🚧 In Progress |
 
 ---
