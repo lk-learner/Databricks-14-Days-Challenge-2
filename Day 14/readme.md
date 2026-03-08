@@ -3,7 +3,7 @@
 
 ## Databricks 14-Day AI Challenge
 
-
+---
 
 <p align="center">
 <img src="https://github.com/lk-learner/Databricks-14-Days-Challenge-2/blob/main/Day%2014/27.png" style="width:50%;max-width:300px;">
