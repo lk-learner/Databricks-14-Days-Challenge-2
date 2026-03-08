@@ -20,7 +20,7 @@ Databricks 14-Days AI Challenge is designed to help beginners build a strong fou
 | [Day 12](https://github.com/lk-learner/Databricks-14-Days-Challenge-2/tree/main/Day%2012) | Cost Optimization Basics | ✅ Completed |
 | [Day 13](https://github.com/lk-learner/Databricks-14-Days-Challenge-2/tree/main/Day%2013) | End-to-End Architecture Design | ✅ Completed |
 | [Day 14](https://github.com/lk-learner/Databricks-14-Days-Challenge-2/tree/main/Day%2014) | Final Production-Ready System | ✅ Completed |
-| [DataBricks_Project](./DataBricks_Project) | DataBricks Project | 🚧 In Progress |
+
 
 ---
 
