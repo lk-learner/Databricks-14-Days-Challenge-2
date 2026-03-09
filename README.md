@@ -2,6 +2,13 @@
 Databricks 14-Days AI Challenge-2 is designed to help beginners build a strong foundation in Databricks through daily learning, hands-on practice, and real-world problem solving.
 
 ---
+
+
+<p align="center">
+<img src="https://github.com/lk-learner/Databricks-14-Days-Challenge-2/blob/main/Day%2014/27.png" style="width:50%;max-width:300px;">
+
+
+---
 ## 📅 Daily Challenges
 
 | Day | Challenge | Status |
