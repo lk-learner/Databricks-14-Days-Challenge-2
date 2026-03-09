@@ -3,10 +3,8 @@ Databricks 14-Days AI Challenge-2 is designed to help beginners build a strong f
 
 ---
 
-
 <p align="center">
-<img src="https://github.com/lk-learner/Databricks-14-Days-Challenge-2/blob/main/Day%2014/Databricks-14-Days-Challenge-Completion..png" style="width:50%;max-width:300px;">
-
+<img src="https://github.com/lk-learner/Databricks-14-Days-Challenge-2/blob/main/Day%2014/Databricks-14-Days-Challenge-Completion..png" height=70%, width=80%>
 
 ---
 ## 📅 Daily Challenges
