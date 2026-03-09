@@ -78,17 +78,12 @@ Progress doesn’t happen in a single day, it needs hardwork, consistent practic
 
 🧠 What actually happened in these 14 days:
 
-Spark stopped looking scary
-
-Delta Lake started making sense
-
-Bronze, Silver, Gold stopped sounding like jewellery 💍
-
-SQL dashboards became my comfort zone
-
-MLflow taught me why tracking experiments matters
-
-AI (Genie & Mosaic AI) showed up and said: “Why type SQL when you can just ask questions?”
+- Spark stopped looking scary
+- Delta Lake started making sense
+- Bronze, Silver, Gold stopped sounding like jewellery 💍
+- SQL dashboards became my comfort zone
+- MLflow taught me why tracking experiments matters
+- AI (Genie & Mosaic AI) showed up and said: “Why type SQL when you can just ask questions?”
 
 
 ---
