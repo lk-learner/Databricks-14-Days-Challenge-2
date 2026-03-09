@@ -1,23 +1,6 @@
 # Databricks-14-Days-Challenge-2
+
 Databricks 14-Days AI Challenge-2 is designed to help beginners build a strong foundation in Databricks through daily learning, hands-on practice, and real-world problem solving.
-
-𝐖𝐡𝐚𝐭 𝐭𝐡𝐢𝐬 𝐜𝐡𝐚𝐥𝐥𝐞𝐧𝐠𝐞 𝐭𝐚𝐮𝐠𝐡𝐭 𝐦𝐞?
-
-Progress doesn’t happen in a single day, it needs hardwork, consistent practice and passion for learning. You don’t truly remember concepts by just reading or watching them You remember them when you build, break, fix, and rebuild
-
-🧠 What actually happened in these 14 days:
-
-Spark stopped looking scary
-
-Delta Lake started making sense
-
-Bronze, Silver, Gold stopped sounding like jewellery 💍
-
-SQL dashboards became my comfort zone
-
-MLflow taught me why tracking experiments matters
-
-AI (Genie & Mosaic AI) showed up and said: “Why type SQL when you can just ask questions?”
 
 ---
 
@@ -86,5 +69,27 @@ This is a personal learning repository for the Databricks-14-Days-Challenge-2. F
 - [MLflow](https://mlflow.org/)
 - [Kaggle Dataset](https://www.kaggle.com/datasets/mkechinov/ecommerce-behavior-data-from-multi-category-store)
 - [Databricks 14 day challenge notion link](https://indiandataclub.notion.site/Databricks-14-Days-AI-Challenge-2-3039b695c41180648c7bd86ae28377e9)
+
+---
+
+𝐖𝐡𝐚𝐭 𝐭𝐡𝐢𝐬 𝐜𝐡𝐚𝐥𝐥𝐞𝐧𝐠𝐞 𝐭𝐚𝐮𝐠𝐡𝐭 𝐦𝐞?
+
+Progress doesn’t happen in a single day, it needs hardwork, consistent practice and passion for learning. You don’t truly remember concepts by just reading or watching them You remember them when you build, break, fix, and rebuild
+
+🧠 What actually happened in these 14 days:
+
+Spark stopped looking scary
+
+Delta Lake started making sense
+
+Bronze, Silver, Gold stopped sounding like jewellery 💍
+
+SQL dashboards became my comfort zone
+
+MLflow taught me why tracking experiments matters
+
+AI (Genie & Mosaic AI) showed up and said: “Why type SQL when you can just ask questions?”
+
+
 ---
 @databricks @codebasics @indiandataclub #DatabricksWithIDC
