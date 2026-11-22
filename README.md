@@ -86,5 +86,4 @@ Progress doesn’t happen in a single day, it needs hardwork, consistent practic
 - AI (Genie & Mosaic AI) showed up and said: “Why type SQL when you can just ask questions?”
 
 
----
-@databricks @codebasics @indiandataclub #DatabricksWithIDC
+
