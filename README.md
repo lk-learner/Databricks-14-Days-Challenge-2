@@ -80,10 +80,9 @@ Progress doesn’t happen in a single day, it needs hardwork, consistent practic
 
 - Spark stopped looking scary
 - Delta Lake started making sense
-- Bronze, Silver, Gold stopped sounding like jewellery 💍
-- SQL dashboards became my comfort zone
+- Bronze, Silver, Gold stopped sounding like sports medals.
 - MLflow taught me why tracking experiments matters
-- AI (Genie & Mosaic AI) showed up and said: “Why type SQL when you can just ask questions?”
+- AI (Genie & Mosaic AI) showed up and said: “No need to type SQL code, you can just ask questions directly in natural English language?”
 
 
 
